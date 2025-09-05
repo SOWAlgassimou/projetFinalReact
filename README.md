@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # ✅ Gestionnaire de Tâches (Projet React)
 
 Un projet final développé en **React** permettant de gérer ses tâches quotidiennes :  
@@ -119,6 +120,10 @@ Projet réalisé par ⚡ [Sow Algassimou]
 Dans le cadre du cours React JS – Projet Final (2025) par Simplon Guinée
 
 
+=======
+# projetFinalReact
+Gestion des tâches
+>>>>>>> e7d77629455e28951625336164715c7d97b7b827
 =======
 # projetFinalReact
 Gestion des tâches
