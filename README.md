@@ -9,7 +9,7 @@ C'est une application React complète pour gérer vos tâches quotidiennes. Ce p
 ---
 
 ## 🚀 Démo en ligne
-👉 [Voir l'application ici](⚡https://gestion-tache-silk.vercel.app/)
+👉 [Voir le lien de l'application ici]( https://gestion-tache-silk.vercel.app/)
     [Voir le lien-github ici]( https://github.com/SOWAlgassimou/projetFinalReact.git)
 
 ---
@@ -70,7 +70,7 @@ cd gestionnaire-taches
 
 Installation et utilisation
 # Cloner le repo
-git clone https://github.com/votre-utilisateur/gestionnaire-taches.git
+git clone https://github.com/SOWAlgassimou/projetFinalReact.git
 cd gestionnaire-taches
 
 # Installer les dépendances
